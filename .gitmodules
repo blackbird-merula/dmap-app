@@ -1,0 +1,3 @@
+[submodule "lib/dsuite"]
+	path = lib/dsuite
+	url = https://github.com/blackbird-merula/dsuite.git
